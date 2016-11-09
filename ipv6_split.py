@@ -1,5 +1,5 @@
 # 
-# Fist Python Script to split and IPv6 address and join it again. v 2.0
+# Fist Python Script to split and IPv6 address and join it again. v 2.1
 #
 
 ipv6_addr = '1111:2222:3333:4444:5555:6666:7777:8888'
