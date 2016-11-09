@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 
 # Fist Python Script to split and IPv6 address and join it again
 #
@@ -18,3 +19,6 @@ print
 print ipv6_new
 print
 
+=======
+# Empty file to collaborate with
+>>>>>>> d56e0bc878a4af7ec4b8b5b2937fa2cc23325284
